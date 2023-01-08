@@ -1,0 +1,33 @@
+
+
+#map {
+  /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
+  height: 600px;
+  width: 600px;
+}
+
+p {
+  margin: 0;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+a{
+
+ color: #5e2847;
+ font-style: "fantasy";
+}
+
+body {
+	
+	background-color: #e7d7d5;
+}
+
+ 
+
